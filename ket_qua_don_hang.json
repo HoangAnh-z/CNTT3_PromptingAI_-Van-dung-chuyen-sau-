@@ -1,0 +1,92 @@
+{
+  "don_hang": [
+    {
+      "ma_don": "SPE2611001",
+      "trang_thai": "HOP_LE",
+      "loi": [],
+      "thanh_tien": 700000,
+      "tin_nhan_phan_hoi": "Chào chị/anh Nguyễn Thị Hoa. shop đã nhận đơn SPE2611001 (Tai nghe Bluetooth x2). tổng tiền 700.000 VNĐ. Shop sẽ giao đến 25 Trần Thái Tông. Cầu Giấy. Hà Nội sớm nhất ạ."
+    },
+    {
+      "ma_don": "SPE2611002",
+      "trang_thai": "HOP_LE",
+      "loi": [],
+      "thanh_tien": 80000,
+      "tin_nhan_phan_hoi": "Chào chị/anh Trần Văn Minh. shop đã nhận đơn SPE2611002 (Ốp lưng x1). tổng tiền 80.000 VNĐ. Shop sẽ giao đến 12 Lê Lợi. Quận 1. TP.HCM sớm nhất ạ."
+    },
+    {
+      "ma_don": "SPE2611003",
+      "trang_thai": "LOI_DU_LIEU",
+      "loi": [
+        "SĐT không đủ 10 chữ số (8 số)",
+        "Sạc nhanh 20W đã hết hàng"
+      ],
+      "thanh_tien": 0,
+      "tin_nhan_phan_hoi": "Chào chị/anh Lê Thu Trang, đơn SPE2611003 của mình đang gặp vấn đề: SĐT không đủ 10 chữ số (8 số); Sạc nhanh 20W đã hết hàng. Mình vui lòng bổ sung/chỉnh lại giúp shop để xử lý đơn nhé ạ."
+    },
+    {
+      "ma_don": "SPE2611004",
+      "trang_thai": "THIEU_THONG_TIN",
+      "loi": [
+        "Thiếu địa chỉ"
+      ],
+      "thanh_tien": 0,
+      "tin_nhan_phan_hoi": "Chào chị/anh Phạm Quốc Anh, đơn SPE2611004 của mình đang gặp vấn đề: Thiếu địa chỉ. Mình vui lòng bổ sung/chỉnh lại giúp shop để xử lý đơn nhé ạ."
+    },
+    {
+      "ma_don": "SPE2611005",
+      "trang_thai": "THIEU_THONG_TIN",
+      "loi": [
+        "Thiếu tên khách"
+      ],
+      "thanh_tien": 0,
+      "tin_nhan_phan_hoi": "Chào quý khách, đơn SPE2611005 của mình đang gặp vấn đề: Thiếu tên khách. Mình vui lòng bổ sung/chỉnh lại giúp shop để xử lý đơn nhé ạ."
+    },
+    {
+      "ma_don": "SPE2611006",
+      "trang_thai": "LOI_DU_LIEU",
+      "loi": [
+        "Sản phẩm 'Cáp sạc Type-C' không có trong bảng giá"
+      ],
+      "thanh_tien": 0,
+      "tin_nhan_phan_hoi": "Chào chị/anh Đỗ Mai Linh, đơn SPE2611006 của mình đang gặp vấn đề: Sản phẩm 'Cáp sạc Type-C' không có trong bảng giá. Mình vui lòng bổ sung/chỉnh lại giúp shop để xử lý đơn nhé ạ."
+    },
+    {
+      "ma_don": "SPE2611007",
+      "trang_thai": "LOI_DU_LIEU",
+      "loi": [
+        "Số lượng không hợp lệ"
+      ],
+      "thanh_tien": 0,
+      "tin_nhan_phan_hoi": "Chào chị/anh Vũ Hoàng Nam, đơn SPE2611007 của mình đang gặp vấn đề: Số lượng không hợp lệ. Mình vui lòng bổ sung/chỉnh lại giúp shop để xử lý đơn nhé ạ."
+    },
+    {
+      "ma_don": "SPE2611008",
+      "trang_thai": "LOI_DU_LIEU",
+      "loi": [
+        "Sạc nhanh 20W đã hết hàng"
+      ],
+      "thanh_tien": 0,
+      "tin_nhan_phan_hoi": "Chào chị/anh Bùi Thanh Huyền, đơn SPE2611008 của mình đang gặp vấn đề: Sạc nhanh 20W đã hết hàng. Mình vui lòng bổ sung/chỉnh lại giúp shop để xử lý đơn nhé ạ."
+    },
+    {
+      "ma_don": "SPE2611009",
+      "trang_thai": "HOP_LE",
+      "loi": [],
+      "thanh_tien": 350000,
+      "tin_nhan_phan_hoi": "Chào chị/anh Ngô Đức Thắng. shop đã nhận đơn SPE2611009 (Tai nghe Bluetooth x1). tổng tiền 350.000 VNĐ. Shop sẽ giao đến 19 Lý Thường Kiệt. Hoàn Kiếm. Hà Nội sớm nhất ạ."
+    },
+    {
+      "ma_don": "SPE2611010",
+      "trang_thai": "HOP_LE",
+      "loi": [],
+      "thanh_tien": 160000,
+      "tin_nhan_phan_hoi": "Chào chị/anh Hoàng Ngọc Ánh. shop đã nhận đơn SPE2611010 (Ốp lưng x2). tổng tiền 160.000 VNĐ. Shop sẽ giao đến 56 Nguyễn Huệ. Huế sớm nhất ạ."
+    }
+  ],
+  "tong_ket": {
+    "tong_don": 10,
+    "hop_le": 4,
+    "loi": 6
+  }
+}
